@@ -1,1 +1,1 @@
-# Quiz-Application-System
+Java based project #AWT #Swing 
